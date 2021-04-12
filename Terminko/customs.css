@@ -1,0 +1,23 @@
+body {
+	background-image: url("slike/body.jpg");
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+.jumbotron {
+    background: none
+}
+
+
+.container {
+    background: none
+}
+
+
+hr {
+	
+	height: 3px;
+}
